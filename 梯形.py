@@ -1,0 +1,12 @@
+from turtle import*
+color('cyan','cyan')
+begin_fill()
+fd(200)
+left(135)
+fd(75)
+left(45)
+fd(105)
+left(45)
+fd(75)
+end_fill()
+done()

@@ -1,0 +1,11 @@
+from turtle import*
+color('green','green')
+begin_fill()
+fd(100)
+left(120)
+fd(100)
+left(60)
+left(60)
+fd(100)
+end_fill()
+done()
